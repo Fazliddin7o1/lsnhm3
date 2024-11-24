@@ -1,0 +1,7 @@
+body{
+    justify-content: center; /* Gorizontal markazlash */
+    align-items: center;    /* Vertikal markazlash */
+    height: 100vh;          /* Butun ekran balandligi */
+    background-color: lightblue; /* Orqa fon rangi */
+    }
+    
